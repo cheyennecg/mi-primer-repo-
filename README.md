@@ -1,7 +1,6 @@
-# mi-primer-repo-
-# mi-primer-repo-
+
 # 🚀 Mi Primer Repositorio
-**Nombre:** [Cheyenne]  
+**Nombre:** Cheyenne 
 **Bootcamp:** Data Analyst  
 **Fecha:** Febrero 2026
 ## 📋 Sobre este proyecto
